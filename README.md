@@ -1,4 +1,6 @@
 # Dharren's API
+# Building an API to retrieve my AGE, WIFE'S NAME AND FAVORITE CAR PROTOTYPE
+# Using Python with a flask, JSON 
 
 **An API (Application Programming Interface)** is a set of rules that allow two software programs to communicate with each other. It defines how data is exchanged between the two systems, and what actions can be performed on the data.
 
