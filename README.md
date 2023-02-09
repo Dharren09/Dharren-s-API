@@ -1,5 +1,5 @@
 # Dharren's API
-* Building an API to retrieve my AGE, WIFE'S NAME AND FAVORITE CAR PROTOTYPE
+* Building an API to retrieve my AGE, BEST FRIEND'S NAME AND FAVORITE CAR PROTOTYPE
 * Using Python with a flask, JSON 
 
 **An API (Application Programming Interface)** is a set of rules that allow two software programs to communicate with each other. It defines how data is exchanged between the two systems, and what actions can be performed on the data.
@@ -27,7 +27,7 @@ Partner APIs: Accessible only to authorized partners, used to exchange data betw
 
 7. Deploy the API: Deploy your API to a hosting environment, such as a cloud platform or a dedicated server, so that it is accessible to other systems.
 
-Building an API can be a complex process, but with careful planning and attention to detail, you can create a robust and reliable API that meets your needs. Good luck with your project!
+**Building an API can be a complex process, but with careful planning and attention to detail, you can create a robust and reliable API that meets your needs. Good luck with your project!**
 
 8. Choose an appropriate technology stack: You can choose any programming language and framework that you are familiar with to build your API. Some popular choices for building REST APIs include Python with the Flask or Django frameworks, and JavaScript with the Express framework.
 
